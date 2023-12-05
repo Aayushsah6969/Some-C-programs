@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+    printf("This is all done by AAYUSH");
     int i;
     int arr[5]={12, 13, 14, 15, 16};
     float avg=0;
